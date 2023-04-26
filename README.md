@@ -14,7 +14,7 @@ We have used a dataset with total 22,000 reviews from public available Amazon pr
 You can download the dataset from [link](https://registry.opendata.aws/helpful-sentences-from-reviews/).
 
 ### Model 
-There are two models we have trained in this project. [[Download]]()
+There are two models we have trained in this project (Appox. 5 GB in total). [[Download]](https://drive.google.com/file/d/1himxiANL5J_29KgKoMirBGanJUj1JyUL/view?usp=share_link)
 1. Standard BERT model (Trained using all training data) 
 2. Ensemble models (Trained using Bootstrap Aggregating method)
 
