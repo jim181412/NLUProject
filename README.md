@@ -3,7 +3,7 @@
 ## Overview
 In this project, we aim to build a text classification model to identify helpful reviews from a lot of product reviews.  
 
-We used the "Helpful Sentences from Reviews" dataset, finetuned a pre-trained BERT model to achieve our goals.
+We used the "Helpful Sentences from Reviews" dataset, fine-tuned a pre-trained BERT model to achieve our goals.
 
 In addition, we applied the Bagging algorithms of Ensemble Learning to train multiple models and combined them as an ensemble for the sake of improving the overall performance.
 
